@@ -10,7 +10,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Resume-Parsing-Candidate-Screening/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Resume-Parsing-Candidate-Screening?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Resume-Parsing-Candidate-Screening/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Resume-Parsing-Candidate-Screening?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Resume-Parsing-Candidate-Screening/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Resume-Parsing-Candidate-Screening?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Resume-Parsing-Candidate-Screening/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg" alt="License: CC0-1.0" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -108,7 +108,7 @@ HireAbility's ALEX parser has processed resumes since 1999. Supporting 50+ langu
 
 ## 💻 Open-Source Software
 
-Self-hosted, community-driven Resume Parsing and Candidate Screening tools. Sorted in descending order by GitHub star count.
+Self-hosted, community-driven Resume Parsing and Candidate Screening tools. Sorted in descending order by GitHub Stars_Count.
 
 ### [Resume-Matcher](https://github.com/srbhr/Resume-Matcher) [![Stars](https://img.shields.io/github/stars/srbhr/Resume-Matcher?style=social&color=white)](https://github.com/srbhr/Resume-Matcher/stargazers)
 **Stack:** Python / Streamlit / FastAPI / Qdrant / LLM | **License:** Apache-2.0  
@@ -214,7 +214,7 @@ A full-stack recruitment web platform featuring explainable candidate-matching s
 
 ## 📊 Comparison at a Glance
 
-| Software | Star Count | License | Stack | Local/Offline | Semantic Matching | Best For |
+| Software | Stars_Count | License | Stack | Local/Offline | Semantic Matching | Best For |
 |:---|:---|:---|:---|:---|:---|:---|
 | **Resume-Matcher** | 29,260+ ⭐ | Apache-2.0 | Python / Vector DB / LLM | ✅ 100% Local | ✅ Vector-based | ATS optimization & JD matching |
 | **open-resume** | 8,970+ ⭐ | MIT | TypeScript / Next.js / PDF.js | ✅ Client-side | ❌ (Scoring) | Browser-based parsing & builder |
@@ -276,3 +276,12 @@ This list is released under [Creative Commons Zero v1.0 Universal (CC0-1.0)](htt
 <div align="center">
   ⭐ <b>Found this repository valuable for your hiring infrastructure? Star the repo on GitHub!</b> ⭐
 </div>
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Resume-Parsing-Candidate-Screening&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Resume-Parsing-Candidate-Screening_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Resume-Parsing-Candidate-Screening_growth.svg">
+  </picture>
+</a>
