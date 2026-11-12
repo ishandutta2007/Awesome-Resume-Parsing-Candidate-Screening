@@ -1,21 +1,38 @@
-# Awesome Resume Parsing & Candidate Screening [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
 
-> A curated list of top Resume Parsing and Candidate Screening platforms — both SaaS/Hosted commercial solutions and open-source alternatives for extracting structured data from resumes, matching candidates to job descriptions, and automating initial screening workflows.
-> 🌟 Star this repo if you find it useful! 🌟
+<a href="https://github.com/ishandutta2007/Awesome-Resume-Parsing-Candidate-Screening">
+  <img src="assets/banner.svg" alt="Awesome Resume Parsing & Candidate Screening Banner" width="100%" />
+</a>
+
+# 📄 Awesome Resume Parsing & Candidate Screening 🎯
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Resume-Parsing-Candidate-Screening/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Resume-Parsing-Candidate-Screening?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Resume-Parsing-Candidate-Screening/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Resume-Parsing-Candidate-Screening?style=social" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Resume-Parsing-Candidate-Screening/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg" alt="License: CC0-1.0" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+> 🌟 A curated directory of top-tier **Resume Parsing** and **Candidate Screening** engines — bridging high-performance open-source layout parsers, deep LLM extractors, and enterprise SaaS APIs for automating recruitment workflows, parsing CVs, and ranking applicants with precision. 🚀
+
+</div>
 
 ---
 
 ## 📋 Table of Contents
 
-- [Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
-- [SaaS / Hosted Platforms](#-saas--hosted-platforms)
+- [🌐 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS / Hosted Platforms](#-saas--hosted-platforms)
   - [Textkernel](#textkernel)
   - [Affinda](#affinda)
   - [Daxtra](#daxtra)
   - [RChilli](#rchilli)
   - [Sovren (Talenteca)](#sovren-now-part-of-talenteca)
   - [HireAbility](#hireability)
-- [Open-Source Software](#-open-source-software)
+- [💻 Open-Source Software](#-open-source-software)
   - [Resume-Matcher](#resume-matcher)
   - [open-resume](#open-resume)
   - [JadeAI](#jadeai)
@@ -36,9 +53,11 @@
   - [somus/resume-extract](#somusresume-extract)
   - [CVInsight](#cvinsight)
   - [HireFlow](#hireflow)
-- [Comparison at a Glance](#-comparison-at-a-glance)
-- [Contributing](#-contributing)
-- [License](#-license)
+- [📊 Comparison at a Glance](#-comparison-at-a-glance)
+- [📈 Star History](#-star-history)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
 
 ---
 
@@ -48,7 +67,7 @@ The global resume parsing and candidate screening software market is valued at a
 
 ---
 
-## 🟦 SaaS / Hosted Platforms
+## 🏢 SaaS / Hosted Platforms
 
 Commercial, cloud-hosted Resume Parsing and Candidate Screening platforms. These are not open-source but represent the leading commercial engines. Sorted descending by estimated company size (valuation / annual revenue).
 
@@ -87,7 +106,7 @@ HireAbility's ALEX parser has processed resumes since 1999. Supporting 50+ langu
 
 ---
 
-## 🟩 Open-Source Software
+## 💻 Open-Source Software
 
 Self-hosted, community-driven Resume Parsing and Candidate Screening tools. Sorted in descending order by GitHub star count.
 
@@ -220,14 +239,31 @@ A full-stack recruitment web platform featuring explainable candidate-matching s
 
 ---
 
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Resume-Parsing-Candidate-Screening&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Resume-Parsing-Candidate-Screening&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for exploring this curated guide to Resume Parsing and Candidate Screening platforms! If this repository has helped streamline your recruitment stack, saved you development time, or introduced you to new open-source tools:
+
+- ⭐ **Star this repository** on GitHub to help others discover it.
+- 🍴 **Fork and contribute** tools, libraries, or corrections via a Pull Request.
+- 📢 **Share** with colleagues, HR tech teams, and recruitment engineers.
+- ☕ **Buy me a coffee / Sponsor:** Support ongoing maintenance and research via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome! If you know of an open-source Resume Parsing, ATS Grading, or Candidate Screening project that should be listed here, please open a pull request.
 
 Please follow these guidelines:
-- Include project name, GitHub URL, stack, and active license.
-- Ensure the project is maintained and genuinely open-source.
-- Add an objective description highlighting what makes the tool distinct.
+- 📌 Include project name, GitHub URL, stack, and active license.
+- ⚙️ Ensure the project is maintained and genuinely open-source.
+- 💡 Add an objective description highlighting what makes the tool distinct.
 
 ---
 
@@ -237,4 +273,6 @@ This list is released under [Creative Commons Zero v1.0 Universal (CC0-1.0)](htt
 
 ---
 
-⭐ **Found this repository valuable for your hiring infrastructure? Star the repo on GitHub!** ⭐
+<div align="center">
+  ⭐ <b>Found this repository valuable for your hiring infrastructure? Star the repo on GitHub!</b> ⭐
+</div>
